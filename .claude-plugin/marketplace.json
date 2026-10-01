@@ -1,0 +1,14 @@
+{
+  "name": "kartikrustagi",
+  "owner": {
+    "name": "Kartik Rustagi"
+  },
+  "description": "Kartik Rustagi's skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "kr-skills",
+      "source": "./",
+      "description": "Kartik Rustagi's agent skills."
+    }
+  ]
+}

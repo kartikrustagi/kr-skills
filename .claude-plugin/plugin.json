@@ -1,0 +1,19 @@
+{
+  "name": "kr-skills",
+  "version": "0.1.0",
+  "description": "Kartik Rustagi's agent skills.",
+  "author": {
+    "name": "Kartik Rustagi"
+  },
+  "repository": "https://github.com/kartikrustagi/kr-skills",
+  "license": "MIT",
+  "skills": [
+    "./skills/code-review",
+    "./skills/codebase-design",
+    "./skills/domain-modeling",
+    "./skills/grill-me",
+    "./skills/grill-with-docs",
+    "./skills/grilling",
+    "./skills/to-spec"
+  ]
+}
