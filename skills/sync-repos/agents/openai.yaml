@@ -1,0 +1,3 @@
+interface:
+  display_name: "Sync Repos"
+  short_description: "Update every git repo reachable from here"

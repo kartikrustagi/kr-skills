@@ -1,6 +1,6 @@
 {
   "name": "kr-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Kartik Rustagi's agent skills.",
   "author": {
     "name": "Kartik Rustagi"
@@ -14,6 +14,7 @@
     "./skills/grill-me",
     "./skills/grill-with-docs",
     "./skills/grilling",
+    "./skills/sync-repos",
     "./skills/to-spec"
   ]
 }
