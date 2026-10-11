@@ -1,0 +1,5 @@
+interface:
+  display_name: "Perf Review Evidence"
+  short_description: "Gather GitHub evidence for a manager's performance review"
+policy:
+  allow_implicit_invocation: false
