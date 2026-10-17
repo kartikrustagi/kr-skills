@@ -1,0 +1,5 @@
+interface:
+  display_name: "Slack Watch"
+  short_description: "Act on instructions posted in a Slack channel"
+policy:
+  allow_implicit_invocation: false
