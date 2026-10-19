@@ -1,7 +1,6 @@
 ---
 name: slack-watch
 description: Watch a Slack channel for new messages and act on them as natural-language instructions, replying in-thread with the result. Supports multiple agent sessions sharing one channel via aliases.
-disable-model-invocation: true
 ---
 
 # Slack Watch
